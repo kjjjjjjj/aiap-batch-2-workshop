@@ -1,0 +1,1244 @@
+Borrower ID,LoanType,Total Loan Amt,Mth1 paysts (May),Mth2 paysts (Apr),Mth3 paysts (Mar),Mth4 paysts (Feb),Mth5 paysts (Jan),Mth6 paysts (Dec 17),Mth7 paysts (Nov 17),Mth8 paysts (Oct 17),Mth9 paysts (Sep 17),Mth10 paysts (Aug 17),Mth11 paysts (Jul17),Mth12 paysts (Jun 17),obn,Loan Principal Amt,Loan Type,Is MECB member,Is MLCB member
+562,UNSECURED,784.36,-,CL,-,OK,OK,OK,OK,OK,-,-,-,-,MAIN BORROWER,500,Personal - Pay Day,False,False
+579,UNSECURED,676.0,-,-,-,CL,OK,-,-,-,-,-,-,-,MAIN BORROWER,650,Personal - Pay Day,True,False
+2819,UNSECURED,600.0,-,-,-,-,-,-,-,-,-,CL,OK,-,MAIN BORROWER,500,Personal - Pay Day,True,False
+2430,UNSECURED,799.03,CL,60,60,-,-,OK,OK,-,-,-,-,-,MAIN BORROWER,600,Personal - Pay Day,False,False
+1579,UNSECURED,799.03,OK,-,-,-,-,-,-,-,-,-,-,-,MAIN BORROWER,"
+     
+     
+     
+     
+     
+     
+     
+  ",Personal - Pay Day,False,False
+967,UNSECURED,250.48,CL,30,OK,-,-,-,-,-,-,-,-,-,MAIN BORROWER,"
+     
+     
+     
+     
+     
+     
+     
+  ",Personal - Pay Day,True,False
+783,UNSECURED,600.0,OK,OK,-,-,-,-,-,-,-,-,-,-,MAIN BORROWER,"
+     
+     
+     
+     
+     
+     
+     
+  ",Personal - Pay Day,True,True
+446,UNSECURED,305.5,-,-,-,-,CL,OK,OK,-,-,-,-,-,MAIN BORROWER,1000,Personal - Pay Day,True,True
+1178,UNSECURED,799.03,CL,OK,OK,OK,OK,OK,-,-,-,-,-,-,MAIN BORROWER,"
+     
+     
+     
+     
+     
+     
+     
+  ",Personal - Pay Day,False,False
+3799,UNSECURED,477.56,-,-,-,-,CL,OK,OK,OK,-,-,-,-,MAIN BORROWER,1000,Personal - Pay Day,True,False
+3673,UNSECURED,425.8,-,-,CL,OK,OK,-,-,-,-,-,-,-,MAIN BORROWER,800,Personal - Pay Day,True,True
+2671,UNSECURED,799.03,CL,OK,OK,OK,-,-,-,-,-,-,-,-,MAIN BORROWER,600,Personal - Pay Day,False,False
+1874,UNSECURED,572.0,-,-,-,-,-,-,CL,OK,-,-,-,-,MAIN BORROWER,"
+     
+     
+     
+     
+     
+     
+     
+  ",Personal - Pay Day,True,False
+1389,UNSECURED,500.0,-,CL,OK,-,-,-,-,-,-,-,-,-,MAIN BORROWER,500,Personal - Pay Day,True,
+3301,UNSECURED,624.0,-,CL,OK,-,-,-,-,-,-,-,-,-,MAIN BORROWER,500,Personal - Pay Day,True,False
+2168,UNSECURED,520.0,OK,-,-,-,-,-,-,-,-,-,-,-,MAIN BORROWER,700,Personal - Pay Day,True,False
+4012,UNSECURED,655.8,-,-,-,-,-,-,CL,OK,-,-,-,-,MAIN BORROWER,350,Personal - Pay Day,False,False
+1766,UNSECURED,520.0,-,-,-,-,-,CL,OK,-,-,-,-,-,MAIN BORROWER,"
+     
+     
+     
+     
+     
+     
+     
+  ",Personal - Pay Day,True,False
+3510,UNSECURED,799.03,OK,OK,OK,OK,-,-,-,-,-,-,-,-,MAIN BORROWER,500,Personal - Pay Day,False,False
+3720,UNSECURED,500.0,OK,OK,-,-,-,-,-,-,-,-,-,-,MAIN BORROWER,800,Personal - Pay Day,True,False
+2728,UNSECURED,600.0,OK,OK,-,-,-,-,-,-,-,-,-,-,MAIN BORROWER,"
+     
+     
+     
+     
+     
+     
+     
+  ",Personal - Pay Day,True,True
+2302,UNSECURED,1340.1,&gt;120,OK,OK,90,60,30,OK,-,-,-,-,-,MAIN BORROWER,1000,Personal - Pay Day,False,False
+2412,UNSECURED,258.15,-,-,-,-,-,-,-,-,-,-,-,-,MAIN BORROWER,"
+     
+     
+     
+     
+     
+     
+     
+  ",Personal - Pay Day,True,False
+320,UNSECURED,393.96,-,-,-,-,-,-,-,-,-,CL,OK,OK,MAIN BORROWER,"
+     
+     
+     
+     
+     
+     
+     
+  ",Personal - Pay Day,True,False
+3692,UNSECURED,314.58,-,-,-,-,CL,OK,-,-,-,-,-,-,MAIN BORROWER,1000,Personal - Pay Day,True,True
+965,UNSECURED,468.0,-,-,-,-,-,-,-,-,CL,OK,-,-,MAIN BORROWER,450,Personal - Pay Day,True,False
+45,UNSECURED,311.75,CL,OK,-,-,-,-,-,-,-,-,-,-,MAIN BORROWER,600,Personal - Pay Day,True,True
+2292,UNSECURED,475.54,-,-,-,-,-,-,-,-,-,CL,30,OK,MAIN BORROWER,800,Personal - Pay Day,True,False
+188,UNSECURED,384.46,-,-,-,CL,OK,OK,OK,OK,-,-,-,-,MAIN BORROWER,800,Personal - Pay Day,True,False
+304,UNSECURED,387.34,CL,OK,OK,OK,OK,-,-,-,-,-,-,-,MAIN BORROWER,1000,Personal - Pay Day,True,False
+2125,UNSECURED,520.0,-,-,-,CL,OK,-,-,-,-,-,-,-,MAIN BORROWER,300,Personal - Pay Day,True,False
+2502,UNSECURED,254.78,-,-,-,CL,OK,-,-,-,-,-,-,-,MAIN BORROWER,500,Personal - Pay Day,True,True
+638,UNSECURED,520.0,-,-,-,-,CL,-,-,-,-,-,-,-,MAIN BORROWER,600,Personal - Pay Day,True,False
+1621,UNSECURED,254.78,-,-,-,CL,OK,-,-,-,-,-,-,-,MAIN BORROWER,500,Personal - Pay Day,True,True
+329,UNSECURED,847.3,OK,-,-,-,-,-,-,-,-,-,-,-,MAIN BORROWER,350,Personal - Pay Day,True,False
+679,UNSECURED,799.03,OK,-,-,-,-,-,-,-,-,-,-,-,MAIN BORROWER,"
+     
+     
+     
+     
+     
+     
+     
+  ",Personal - Pay Day,False,False
+3873,UNSECURED,355.42,-,CL,OK,OK,-,-,-,-,-,-,-,-,MAIN BORROWER,700,Personal - Pay Day,True,True
+2061,UNSECURED,1141.47,OK,-,-,-,-,-,-,-,-,-,-,-,MAIN BORROWER,700,Personal - Pay Day,False,False
+3972,UNSECURED,769.86,-,-,CL,OK,OK,OK,OK,-,-,-,-,-,MAIN BORROWER,500,Personal - Pay Day,False,False
+3748,UNSECURED,520.0,CL,OK,-,-,-,-,-,-,-,-,-,-,MAIN BORROWER,500,Personal - Pay Day,True,False
+1432,UNSECURED,799.03,OK,-,-,-,-,-,-,-,-,-,-,-,MAIN BORROWER,"
+     
+     
+     
+     
+     
+     
+     
+  ",Personal - Pay Day,False,False
+946,UNSECURED,356.69,-,-,-,-,CL,30,OK,-,-,-,-,-,MAIN BORROWER,700,Personal - Pay Day,True,True
+1475,UNSECURED,500.0,-,-,-,CL,OK,-,-,-,-,-,-,-,MAIN BORROWER,1000,Personal - Pay Day,True,True
+1566,UNSECURED,1079.34,OK,-,-,-,-,-,-,-,-,-,-,-,MAIN BORROWER,"
+     
+     
+     
+     
+     
+     
+     
+  ",Personal - Pay Day,True,True
+510,UNSECURED,302.95,-,-,CL,OK,OK,OK,-,-,-,-,-,-,MAIN BORROWER,600,Personal - Pay Day,True,True
+1309,UNSECURED,374.6,-,-,-,-,CL,OK,OK,-,-,-,-,-,MAIN BORROWER,800,Personal - Pay Day,True,True
+2490,UNSECURED,570.74,CL,-,OK,OK,-,-,-,-,-,-,-,-,MAIN BORROWER,500,Personal - Pay Day,False,False
+3044,SECURED,200000.0,-,-,-,-,-,-,-,-,-,-,-,-,MAIN BORROWER,500000,Personal - Pay Day,False,False
+3813,UNSECURED,529.56,OK,-,-,-,-,-,-,-,-,-,-,-,MAIN BORROWER,300,Personal - Pay Day,True,
+2741,UNSECURED,374.58,-,CL,OK,OK,-,-,-,-,-,-,-,-,MAIN BORROWER,500,Personal - Pay Day,True,True
+1975,UNSECURED,300.0,-,-,-,-,-,-,-,-,-,CL,OK,-,MAIN BORROWER,900,Personal - Pay Day,True,False
+3790,UNSECURED,305.5,-,-,-,CL,OK,OK,-,-,-,-,-,-,MAIN BORROWER,"
+     
+     
+     
+     
+     
+     
+     
+  ",Personal - Pay Day,True,True
+2202,UNSECURED,799.03,OK,-,-,-,-,-,-,-,-,-,-,-,MAIN BORROWER,500,Personal - Pay Day,False,False
+3443,UNSECURED,364.0,-,CL,OK,-,-,-,-,-,-,-,-,-,MAIN BORROWER,1000,Personal - Pay Day,False,False
+2593,UNSECURED,401.33,-,-,-,CL,OK,-,-,-,-,-,-,-,MAIN BORROWER,500,Personal - Pay Day,True,True
+2138,UNSECURED,520.0,OK,-,-,-,-,-,-,-,-,-,-,-,MAIN BORROWER,700,Personal - Pay Day,True,False
+2619,UNSECURED,799.03,OK,-,-,-,-,-,-,-,-,-,-,-,MAIN BORROWER,"
+     
+     
+     
+     
+     
+     
+     
+  ",Personal - Pay Day,False,False
+2794,UNSECURED,572.0,OK,OK,-,-,-,-,-,-,-,-,-,-,MAIN BORROWER,500,Personal - Pay Day,False,False
+1145,UNSECURED,529.56,-,OK,-,-,-,-,-,-,-,-,-,-,MAIN BORROWER,800,Personal - Pay Day,False,False
+1638,UNSECURED,403.58,-,-,-,-,-,-,CL,OK,-,-,-,-,MAIN BORROWER,800,Personal - Pay Day,True,False
+3306,UNSECURED,426.48,-,-,-,-,-,-,-,-,-,-,-,CL,MAIN BORROWER,500,Personal - Pay Day,True,False
+3617,UNSECURED,572.0,-,-,-,-,-,-,-,-,-,OK,CL,-,MAIN BORROWER,450,Personal - Pay Day,True,False
+1200,UNSECURED,520.0,-,CL,OK,-,-,-,-,-,-,-,-,-,MAIN BORROWER,500,Personal - Pay Day,True,False
+683,UNSECURED,531.41,CL,OK,OK,-,-,-,-,-,-,-,-,-,MAIN BORROWER,"
+     
+     
+     
+     
+     
+     
+     
+  ",Personal - Pay Day,True,True
+1760,UNSECURED,1500.0,CL,OK,-,-,-,-,-,-,-,-,-,-,MAIN BORROWER,800,Personal - Pay Day,True,False
+2828,UNSECURED,572.0,-,-,-,-,-,-,-,-,-,-,CL,OK,MAIN BORROWER,350,Personal - Pay Day,False,False
+2225,UNSECURED,676.0,-,-,-,-,CL,OK,-,-,-,-,-,-,MAIN BORROWER,650,Personal - Pay Day,True,False
+3838,UNSECURED,426.54,-,CL,OK,OK,-,-,-,-,-,-,-,-,MAIN BORROWER,"
+     
+     
+     
+     
+     
+     
+     
+  ",Personal - Pay Day,True,True
+1711,UNSECURED,593.64,-,OK,-,-,-,-,-,-,-,-,-,-,MAIN BORROWER,800,Personal - Pay Day,False,False
+3380,UNSECURED,799.03,-,OK,OK,OK,OK,-,-,-,-,-,-,-,MAIN BORROWER,"
+     
+     
+     
+     
+     
+     
+     
+  ",Personal - Pay Day,False,False
+1827,UNSECURED,520.0,-,-,-,CL,OK,-,-,-,-,-,-,-,MAIN BORROWER,500,Personal - Pay Day,True,False
+174,UNSECURED,799.03,OK,-,-,-,-,-,-,-,-,-,-,-,MAIN BORROWER,800,Personal - Pay Day,False,False
+922,UNSECURED,572.0,-,-,-,-,-,-,-,-,-,-,CL,OK,MAIN BORROWER,550,Personal - Pay Day,True,False
+1378,UNSECURED,676.0,-,-,-,-,-,-,-,CL,OK,-,-,-,MAIN BORROWER,550,Personal - Pay Day,True,False
+1909,UNSECURED,1000.0,OK,OK,-,-,-,-,-,-,-,-,-,-,MAIN BORROWER,"
+     
+     
+     
+     
+     
+     
+     
+  ",Personal - Pay Day,True,True
+2150,UNSECURED,756.73,OK,OK,-,-,-,-,-,-,-,-,-,-,MAIN BORROWER,800,Personal - Others,True,False
+599,UNSECURED,305.5,-,CL,OK,OK,-,-,-,-,-,-,-,-,MAIN BORROWER,"
+     
+     
+     
+     
+     
+     
+     
+  ",Personal - Pay Day,True,True
+1507,UNSECURED,780.0,-,-,-,OK,OK,-,-,-,-,-,-,-,MAIN BORROWER,750,Personal - Pay Day,True,False
+3574,UNSECURED,799.03,-,CL,OK,OK,OK,OK,-,-,-,-,-,-,MAIN BORROWER,300,Personal - Pay Day,False,False
+2372,UNSECURED,1121.64,120,90,60,OK,OK,-,-,-,-,-,-,-,MAIN BORROWER,500,Personal - Pay Day,False,False
+1073,UNSECURED,636.24,OK,OK,-,-,-,-,-,-,-,-,-,-,MAIN BORROWER,500,Personal - Pay Day,True,False
+1943,UNSECURED,636.24,-,CL,-,-,-,-,-,-,-,-,-,-,MAIN BORROWER,500,Personal - Pay Day,True,False
+1894,UNSECURED,431.8,-,-,CL,OK,OK,-,-,-,-,-,-,-,MAIN BORROWER,700,Personal - Pay Day,True,True
+1597,SECURED,111050.34,90,60,30,CL,OK,OK,OK,-,-,-,-,-,MAIN BORROWER,200000,Personal - Pay Day,False,False
+284,UNSECURED,799.03,OK,-,-,-,-,-,-,-,-,-,-,-,MAIN BORROWER,600,Personal - Pay Day,False,False
+2615,SECURED,359424.11,-,OK,OK,-,-,-,-,-,-,-,-,-,MAIN BORROWER,"
+     
+     
+     
+     
+     
+     
+     
+  ",Personal - Pay Day,False,False
+2547,UNSECURED,755.54,-,-,-,-,CL,OK,OK,OK,-,-,-,-,MAIN BORROWER,1000,Personal - Pay Day,False,False
+3602,UNSECURED,847.3,-,CL,OK,-,-,-,-,-,-,-,-,-,MAIN BORROWER,500,Personal - Pay Day,True,False
+61,SECURED,509948.49,-,-,-,-,-,-,-,-,-,-,-,-,MAIN BORROWER,650000,Business,False,False
+1449,UNSECURED,522.73,-,-,-,-,-,-,-,-,-,-,-,-,MAIN BORROWER,1000,Personal - Pay Day,True,True
+3391,UNSECURED,500.0,-,CL,-,-,-,-,-,-,-,-,-,-,MAIN BORROWER,500,Personal - Pay Day,True,
+1826,UNSECURED,876.02,CL,OK,OK,-,-,-,-,-,-,-,-,-,MAIN BORROWER,1000,Personal - Pay Day,True,True
+1666,UNSECURED,799.03,-,-,-,CL,OK,OK,OK,-,-,-,-,-,MAIN BORROWER,1000,Personal - Pay Day,False,False
+2980,UNSECURED,800.0,OK,OK,-,-,-,-,-,-,-,-,-,-,MAIN BORROWER,"
+     
+     
+     
+     
+     
+     
+     
+  ",Personal - Pay Day,True,True
+1928,UNSECURED,364.14,-,-,CL,30,OK,-,-,-,-,-,-,-,MAIN BORROWER,700,Personal - Pay Day,True,False
+1284,UNSECURED,635.48,-,CL,OK,-,-,-,-,-,-,-,-,-,MAIN BORROWER,800,Personal - Pay Day,True,False
+205,SECURED,204681.64,-,-,-,-,-,-,-,-,-,-,-,-,MAIN BORROWER,500000,Personal - Pay Day,False,False
+2070,UNSECURED,500.0,-,-,-,CL,OK,-,-,-,-,-,-,-,MAIN BORROWER,1000,Personal - Pay Day,True,True
+281,UNSECURED,600.0,OK,OK,-,-,-,-,-,-,-,-,-,-,MAIN BORROWER,"
+     
+     
+     
+     
+     
+     
+     
+  ",Personal - Pay Day,True,True
+2048,UNSECURED,676.0,-,-,-,-,-,CL,OK,-,-,-,-,-,MAIN BORROWER,650,Personal - Pay Day,True,False
+1362,UNSECURED,312.0,-,-,-,-,CL,OK,-,-,-,-,-,-,MAIN BORROWER,550,Personal - Pay Day,True,False
+1917,UNSECURED,1092.0,OK,OK,-,-,-,-,-,-,-,-,-,-,MAIN BORROWER,"
+     
+     
+     
+     
+     
+     
+     
+  ",Personal - Pay Day,False,False
+3078,UNSECURED,2872.9,-,-,-,-,-,-,-,-,-,-,-,CL,MAIN BORROWER,1000,Personal - Pay Day,False,
+3085,UNSECURED,636.24,-,CL,OK,-,-,-,-,-,-,-,-,-,MAIN BORROWER,600,Personal - Pay Day,True,False
+1180,UNSECURED,300.0,-,-,-,CL,-,-,-,-,-,-,-,-,MAIN BORROWER,500,Personal - Pay Day,True,False
+991,UNSECURED,300.0,-,CL,-,-,-,-,-,-,-,-,-,-,MAIN BORROWER,800,Personal - Pay Day,True,True
+1764,UNSECURED,676.0,-,-,-,-,-,-,-,-,-,CL,OK,-,MAIN BORROWER,550,Personal - Pay Day,True,False
+2757,UNSECURED,884.0,OK,-,-,-,-,-,-,-,-,-,-,-,MAIN BORROWER,"
+     
+     
+     
+     
+     
+     
+     
+  ",Personal - Pay Day,False,False
+2040,UNSECURED,520.0,OK,OK,-,-,-,-,-,-,-,-,-,-,MAIN BORROWER,"
+     
+     
+     
+     
+     
+     
+     
+  ",Personal - Pay Day,True,False
+2524,UNSECURED,185.16,-,CL,OK,OK,OK,-,-,-,-,-,-,-,MAIN BORROWER,600,Personal - Pay Day,True,True
+3714,UNSECURED,468.0,-,-,-,-,-,-,-,-,-,-,CL,-,MAIN BORROWER,450,Personal - Pay Day,True,False
+3503,UNSECURED,539.66,OK,-,-,-,-,-,-,-,-,-,-,-,MAIN BORROWER,500,Personal - Pay Day,False,False
+1843,UNSECURED,389.34,-,-,-,-,CL,30,OK,-,-,-,-,-,MAIN BORROWER,"
+     
+     
+     
+     
+     
+     
+     
+  ",Personal - Pay Day,True,True
+1558,UNSECURED,305.5,-,-,-,-,CL,OK,OK,-,-,-,-,-,MAIN BORROWER,"
+     
+     
+     
+     
+     
+     
+     
+  ",Personal - Pay Day,True,True
+85,UNSECURED,560.25,CL,OK,OK,OK,OK,OK,-,-,-,-,-,-,MAIN BORROWER,600,Personal - Pay Day,False,False
+2046,UNSECURED,519.12,-,-,-,CL,OK,OK,-,-,-,-,-,-,MAIN BORROWER,1000,Personal - Pay Day,True,False
+2375,UNSECURED,281.27,-,-,-,-,-,-,-,-,-,CL,30,OK,MAIN BORROWER,900,Personal - Pay Day,False,False
+3943,UNSECURED,207.7,-,CL,OK,OK,-,-,-,-,-,-,-,-,MAIN BORROWER,900,Personal - Pay Day,True,True
+466,UNSECURED,520.0,CL,-,-,-,-,-,-,-,-,-,-,-,MAIN BORROWER,500,Personal - Pay Day,True,False
+1053,UNSECURED,529.56,OK,-,-,-,-,-,-,-,-,-,-,-,MAIN BORROWER,"
+     
+     
+     
+     
+     
+     
+     
+  ",Personal - Pay Day,True,True
+59,UNSECURED,799.03,CL,OK,-,OK,OK,OK,OK,-,-,-,-,-,MAIN BORROWER,"
+     
+     
+     
+     
+     
+     
+     
+  ",Personal - Pay Day,False,False
+2196,SECURED,511967.12,-,-,-,-,-,-,-,-,-,-,-,-,MAIN BORROWER,"
+     
+     
+     
+     
+     
+     
+     
+  ",Personal - Pay Day,False,False
+1929,SECURED,102340.82,-,-,-,-,-,-,-,-,-,-,-,-,MAIN BORROWER,198937.87,Personal - Pay Day,False,False
+3215,UNSECURED,799.03,CL,-,OK,OK,OK,OK,-,-,-,-,-,-,MAIN BORROWER,700,Personal - Pay Day,False,False
+243,UNSECURED,1099.58,OK,OK,OK,-,-,-,-,-,-,-,-,-,MAIN BORROWER,600,Personal - Pay Day,True,True
+1006,UNSECURED,500.0,CL,OK,-,-,-,-,-,-,-,-,-,-,MAIN BORROWER,500,Personal - Pay Day,True,
+3339,UNSECURED,520.0,-,-,-,CL,OK,-,-,-,-,-,-,-,MAIN BORROWER,500,Personal - Pay Day,True,False
+3180,UNSECURED,636.24,CL,OK,-,-,-,-,-,-,-,-,-,-,MAIN BORROWER,600,Personal - Pay Day,True,False
+3737,UNSECURED,600.0,OK,OK,-,-,-,-,-,-,-,-,-,-,MAIN BORROWER,"
+     
+     
+     
+     
+     
+     
+     
+  ",Personal - Pay Day,True,True
+1076,SECURED,108430.89,90,60,30,CL,OK,OK,-,-,-,-,-,-,MAIN BORROWER,100000,Personal - Pay Day,False,False
+3175,UNSECURED,326.65,-,-,-,-,-,-,-,-,-,-,-,CL,MAIN BORROWER,400,Personal - Pay Day,True,False
+3075,UNSECURED,799.03,OK,-,-,-,-,-,-,-,-,-,-,-,MAIN BORROWER,"
+     
+     
+     
+     
+     
+     
+     
+  ",Personal - Pay Day,False,False
+956,UNSECURED,408.0,OK,OK,-,-,-,-,-,-,-,-,-,-,MAIN BORROWER,"
+     
+     
+     
+     
+     
+     
+     
+  ",Personal - Pay Day,True,True
+1539,UNSECURED,305.74,-,-,-,CL,30,OK,-,-,-,-,-,-,MAIN BORROWER,500,Personal - Pay Day,True,True
+2137,SECURED,28806.91,120,120,90,30,CL,OK,OK,OK,-,-,-,-,MAIN BORROWER,317500,Personal - Pay Day,False,False
+3595,UNSECURED,520.0,OK,-,-,-,-,-,-,-,-,-,-,-,MAIN BORROWER,800,Personal - Pay Day,True,False
+941,UNSECURED,305.76,-,-,CL,OK,-,-,-,-,-,-,-,-,MAIN BORROWER,"
+     
+     
+     
+     
+     
+     
+     
+  ",Personal - Pay Day,True,True
+2861,UNSECURED,439.11,-,-,CL,OK,OK,OK,OK,-,-,-,-,-,MAIN BORROWER,1200,Personal - Pay Day,True,False
+3147,UNSECURED,364.0,OK,OK,-,-,-,-,-,-,-,-,-,-,MAIN BORROWER,500,Personal - Pay Day,False,False
+3472,UNSECURED,728.0,-,-,-,CL,OK,-,-,-,-,-,-,-,MAIN BORROWER,500,Personal - Pay Day,True,False
+3204,UNSECURED,799.03,CL,OK,OK,OK,-,OK,-,-,-,-,-,-,MAIN BORROWER,1000,Personal - Pay Day,False,False
+1352,UNSECURED,3000.0,-,-,-,CL,-,-,-,-,-,-,-,-,MAIN BORROWER,3000,Personal - Pay Day,True,True
+2956,UNSECURED,572.0,-,-,-,-,-,-,-,-,-,-,-,CL,MAIN BORROWER,650,Personal - Pay Day,True,False
+128,UNSECURED,847.3,-,-,CL,-,-,-,-,-,-,-,-,-,MAIN BORROWER,900,Personal - Pay Day,True,True
+378,UNSECURED,520.0,-,-,-,CL,-,-,-,-,-,-,-,-,MAIN BORROWER,500,Personal - Pay Day,True,False
+1185,UNSECURED,254.78,-,-,-,CL,30,OK,-,-,-,-,-,-,MAIN BORROWER,800,Personal - Pay Day,True,True
+1110,UNSECURED,302.22,-,CL,60,30,OK,-,-,-,-,-,-,-,MAIN BORROWER,850,Personal - Pay Day,True,False
+1425,UNSECURED,1000.0,-,OK,-,-,-,-,-,-,-,-,-,-,MAIN BORROWER,"
+     
+     
+     
+     
+     
+     
+     
+  ",Personal - Pay Day,True,True
+3841,UNSECURED,1000.0,-,OK,-,-,-,-,-,-,-,-,-,-,MAIN BORROWER,"
+     
+     
+     
+     
+     
+     
+     
+  ",Personal - Pay Day,True,True
+1302,UNSECURED,799.03,CL,-,OK,OK,OK,OK,OK,-,-,-,-,-,MAIN BORROWER,800,Personal - Pay Day,False,False
+3725,UNSECURED,799.03,OK,OK,OK,-,-,-,-,-,-,-,-,-,MAIN BORROWER,"
+     
+     
+     
+     
+     
+     
+     
+  ",Personal - Pay Day,False,False
+3218,UNSECURED,520.0,-,CL,OK,-,-,-,-,-,-,-,-,-,MAIN BORROWER,600,Personal - Pay Day,True,False
+3520,UNSECURED,305.5,-,-,CL,OK,OK,-,-,-,-,-,-,-,MAIN BORROWER,"
+     
+     
+     
+     
+     
+     
+     
+  ",Personal - Pay Day,True,True
+1172,UNSECURED,634.64,-,OK,OK,OK,OK,OK,-,-,-,-,-,-,MAIN BORROWER,800,Personal - Pay Day,True,True
+2616,UNSECURED,573.32,60,30,OK,OK,-,-,-,-,-,-,-,-,MAIN BORROWER,"
+     
+     
+     
+     
+     
+     
+     
+  ",Personal - Pay Day,False,
+3024,UNSECURED,520.0,OK,-,-,-,-,-,-,-,-,-,-,-,MAIN BORROWER,500,Personal - Pay Day,True,False
+1966,UNSECURED,763.08,-,-,CL,OK,OK,-,-,-,-,-,-,-,MAIN BORROWER,350,Personal - Pay Day,True,False
+1633,SECURED,1300000.0,-,-,-,-,-,-,-,CL,OK,OK,-,-,MAIN BORROWER,900000,Business,False,False
+1320,SECURED,102393.42,-,-,-,-,-,-,-,-,-,-,-,-,MAIN BORROWER,200000,Personal - Pay Day,False,False
+2474,UNSECURED,312.0,-,-,-,-,-,-,CL,OK,-,-,-,-,MAIN BORROWER,300,Personal - Pay Day,True,False
+1850,UNSECURED,305.5,-,CL,OK,OK,-,-,-,-,-,-,-,-,MAIN BORROWER,300,Personal - Pay Day,True,True
+1752,UNSECURED,520.0,-,CL,OK,-,-,-,-,-,-,-,-,-,MAIN BORROWER,500,Personal - Pay Day,True,False
+1111,UNSECURED,800.0,-,-,CL,OK,-,-,-,-,-,-,-,-,MAIN BORROWER,300,Personal - Pay Day,True,True
+3185,UNSECURED,750.0,OK,OK,-,-,-,-,-,-,-,-,-,-,MAIN BORROWER,550,Personal - Pay Day,True,False
+3450,UNSECURED,799.03,CL,OK,OK,-,-,-,-,-,-,-,-,-,MAIN BORROWER,400,Personal - Pay Day,False,False
+1846,UNSECURED,520.0,-,CL,OK,-,-,-,-,-,-,-,-,-,MAIN BORROWER,500,Personal - Pay Day,True,False
+179,UNSECURED,259.58,-,-,CL,OK,-,-,-,-,-,-,-,-,MAIN BORROWER,1000,Personal - Pay Day,True,True
+2354,UNSECURED,325.41,-,-,-,-,CL,OK,-,-,-,-,-,-,MAIN BORROWER,1000,Personal - Pay Day,True,True
+2112,UNSECURED,600.0,-,-,-,CL,OK,-,-,-,-,-,-,-,MAIN BORROWER,1000,Personal - Pay Day,True,True
+344,UNSECURED,305.5,-,-,-,-,CL,OK,OK,-,-,-,-,-,MAIN BORROWER,"
+     
+     
+     
+     
+     
+     
+     
+  ",Personal - Pay Day,True,True
+2970,UNSECURED,304.39,-,-,-,-,CL,OK,OK,-,-,-,-,-,MAIN BORROWER,600,Personal - Pay Day,True,False
+3860,UNSECURED,627.81,CL,-,OK,OK,OK,-,-,-,-,-,-,-,MAIN BORROWER,1000,Personal - Pay Day,False,False
+2814,UNSECURED,70887.03,-,-,-,-,-,-,-,-,-,-,-,-,MAIN BORROWER,98025.37,Business,False,False
+639,UNSECURED,643.68,OK,OK,OK,-,-,-,-,-,-,-,-,-,MAIN BORROWER,"
+     
+     
+     
+     
+     
+     
+     
+  ",Personal - Pay Day,True,True
+767,UNSECURED,1086.17,-,-,CL,OK,OK,-,-,-,-,-,-,-,MAIN BORROWER,600,Personal - Pay Day,True,True
+2679,UNSECURED,799.03,CL,OK,OK,OK,OK,-,-,-,-,-,-,-,MAIN BORROWER,800,Personal - Pay Day,False,False
+1824,UNSECURED,254.78,-,-,-,-,CL,OK,OK,-,-,-,-,-,MAIN BORROWER,500,Personal - Pay Day,True,True
+2072,UNSECURED,800.0,-,-,-,CL,OK,-,-,-,-,-,-,-,MAIN BORROWER,"
+     
+     
+     
+     
+     
+     
+     
+  ",Personal - Pay Day,True,True
+1250,UNSECURED,800.0,OK,OK,-,-,-,-,-,-,-,-,-,-,MAIN BORROWER,"
+     
+     
+     
+     
+     
+     
+     
+  ",Personal - Pay Day,True,True
+1096,UNSECURED,378.3,CL,OK,OK,OK,-,-,-,-,-,-,-,-,MAIN BORROWER,"
+     
+     
+     
+     
+     
+     
+     
+  ",Personal - Pay Day,True,True
+3905,UNSECURED,700.0,OK,OK,-,-,-,-,-,-,-,-,-,-,MAIN BORROWER,"
+     
+     
+     
+     
+     
+     
+     
+  ",Personal - Pay Day,True,True
+886,UNSECURED,623.5,OK,OK,-,-,-,-,-,-,-,-,-,-,MAIN BORROWER,"
+     
+     
+     
+     
+     
+     
+     
+  ",Personal - Pay Day,True,False
+2009,UNSECURED,254.78,-,-,-,-,-,-,-,-,-,CL,OK,OK,MAIN BORROWER,"
+     
+     
+     
+     
+     
+     
+     
+  ",Personal - Pay Day,True,True
+848,UNSECURED,530.36,OK,OK,OK,-,-,-,-,-,-,-,-,-,MAIN BORROWER,"
+     
+     
+     
+     
+     
+     
+     
+  ",Personal - Pay Day,True,False
+1399,UNSECURED,280.54,-,CL,30,OK,-,-,-,-,-,-,-,-,MAIN BORROWER,550,Personal - Pay Day,False,False
+148,UNSECURED,305.5,-,-,-,-,OK,OK,-,-,-,-,-,-,MAIN BORROWER,1000,Personal - Pay Day,True,True
+1554,UNSECURED,1187.27,30,120,90,60,OK,OK,-,-,-,-,-,-,MAIN BORROWER,500,Personal - Pay Day,False,False
+1568,UNSECURED,570.74,OK,-,-,-,-,-,-,-,-,-,-,-,MAIN BORROWER,1000,Personal - Pay Day,False,False
+3871,UNSECURED,1059.13,OK,-,-,-,-,-,-,-,-,-,-,-,MAIN BORROWER,"
+     
+     
+     
+     
+     
+     
+     
+  ",Personal - Pay Day,True,False
+532,UNSECURED,572.0,-,-,-,-,-,-,-,-,-,CL,OK,-,MAIN BORROWER,550,Personal - Pay Day,False,False
+10,UNSECURED,799.03,-,OK,-,-,-,-,-,-,-,-,-,-,MAIN BORROWER,600,Personal - Pay Day,False,False
+1891,UNSECURED,528.37,CL,30,OK,-,-,-,-,-,-,-,-,-,MAIN BORROWER,"
+     
+     
+     
+     
+     
+     
+     
+  ",Personal - Pay Day,True,True
+1291,UNSECURED,700.0,CL,30,30,OK,OK,-,-,-,-,-,-,-,MAIN BORROWER,600,Personal - Pay Day,False,False
+1995,UNSECURED,749.48,-,-,-,-,-,-,-,-,-,-,-,CL,MAIN BORROWER,800,Personal - Pay Day,True,False
+1879,UNSECURED,676.0,-,-,-,-,CL,OK,-,-,-,-,-,-,MAIN BORROWER,550,Personal - Pay Day,True,False
+3794,UNSECURED,408.43,CL,OK,OK,OK,-,-,-,-,-,-,-,-,MAIN BORROWER,700,Personal - Pay Day,True,True
+35,UNSECURED,398.42,-,-,-,-,-,-,-,-,-,-,-,-,MAIN BORROWER,350,Personal - Pay Day,True,False
+3371,UNSECURED,520.0,-,-,CL,OK,-,-,-,-,-,-,-,-,MAIN BORROWER,500,Personal - Pay Day,True,False
+1937,UNSECURED,799.03,OK,-,-,-,-,-,-,-,-,-,-,-,MAIN BORROWER,500,Personal - Pay Day,False,False
+2351,UNSECURED,465.8,-,-,CL,OK,OK,-,-,-,-,-,-,-,MAIN BORROWER,800,Personal - Pay Day,True,True
+673,UNSECURED,800.0,OK,-,-,-,-,-,-,-,-,-,-,-,MAIN BORROWER,"
+     
+     
+     
+     
+     
+     
+     
+  ",Personal - Pay Day,True,True
+1718,UNSECURED,520.0,OK,OK,-,-,-,-,-,-,-,-,-,-,MAIN BORROWER,500,Personal - Pay Day,True,False
+3640,UNSECURED,1000.0,OK,OK,-,-,-,-,-,-,-,-,-,-,MAIN BORROWER,"
+     
+     
+     
+     
+     
+     
+     
+  ",Personal - Pay Day,True,True
+3582,UNSECURED,676.0,-,-,-,-,-,-,-,-,-,-,CL,-,MAIN BORROWER,650,Personal - Pay Day,True,False
+3082,UNSECURED,799.03,OK,-,-,-,-,-,-,-,-,-,-,-,MAIN BORROWER,"
+     
+     
+     
+     
+     
+     
+     
+  ",Personal - Pay Day,False,False
+2273,UNSECURED,624.0,OK,-,-,-,-,-,-,-,-,-,-,-,MAIN BORROWER,"
+     
+     
+     
+     
+     
+     
+     
+  ",Personal - Pay Day,True,False
+2580,UNSECURED,520.0,-,-,-,CL,OK,-,-,-,-,-,-,-,MAIN BORROWER,350,Personal - Pay Day,True,False
+2464,UNSECURED,572.0,-,-,-,-,OK,OK,-,-,-,-,-,-,MAIN BORROWER,550,Personal - Pay Day,True,False
+1413,UNSECURED,312.0,-,-,-,CL,OK,-,-,-,-,-,-,-,MAIN BORROWER,600,Personal - Pay Day,True,False
+2508,UNSECURED,407.6,OK,OK,-,-,-,-,-,-,-,-,-,-,MAIN BORROWER,"
+     
+     
+     
+     
+     
+     
+     
+  ",Personal - Pay Day,True,True
+2325,UNSECURED,799.03,CL,OK,OK,OK,-,-,-,-,-,-,-,-,MAIN BORROWER,"
+     
+     
+     
+     
+     
+     
+     
+  ",Personal - Pay Day,False,False
+907,UNSECURED,520.0,-,CL,OK,-,-,-,-,-,-,-,-,-,MAIN BORROWER,500,Personal - Pay Day,True,False
+3588,UNSECURED,386.38,-,-,-,-,-,-,CL,OK,OK,-,-,-,MAIN BORROWER,900,Personal - Pay Day,True,False
+3096,UNSECURED,900.0,-,-,-,CL,OK,-,-,-,-,-,-,-,MAIN BORROWER,800,Personal - Pay Day,True,True
+3187,UNSECURED,468.0,-,-,-,-,-,-,-,-,-,-,CL,OK,MAIN BORROWER,450,Personal - Pay Day,True,False
+175,UNSECURED,135.33,-,-,-,30,CL,OK,-,-,-,-,-,-,MAIN BORROWER,450,Personal - Pay Day,True,False
+806,UNSECURED,636.24,OK,OK,-,-,-,-,-,-,-,-,-,-,MAIN BORROWER,"
+     
+     
+     
+     
+     
+     
+     
+  ",Personal - Pay Day,True,False
+3911,UNSECURED,676.0,-,-,-,CL,OK,-,-,-,-,-,-,-,MAIN BORROWER,650,Personal - Pay Day,True,False
+1759,UNSECURED,314.61,-,-,-,CL,OK,OK,-,-,-,-,-,-,MAIN BORROWER,800,Personal - Pay Day,True,True
+1227,UNSECURED,385.0,OK,OK,OK,-,-,-,-,-,-,-,-,-,MAIN BORROWER,"
+     
+     
+     
+     
+     
+     
+     
+  ",Personal - Pay Day,True,False
+3471,SECURED,20598.36,-,-,CL,-,-,-,-,-,-,-,-,-,MAIN BORROWER,35000,Personal - Pay Day,False,False
+3355,UNSECURED,700.0,-,CL,OK,OK,-,-,-,-,-,-,-,-,MAIN BORROWER,700,Personal - Pay Day,True,False
+3542,UNSECURED,150.0,-,-,-,-,-,-,-,-,-,-,-,-,MAIN BORROWER,800,Personal - Pay Day,False,False
+1873,UNSECURED,847.3,OK,-,-,-,-,-,-,-,-,-,-,-,MAIN BORROWER,"
+     
+     
+     
+     
+     
+     
+     
+  ",Personal - Pay Day,True,True
+757,UNSECURED,500.0,OK,OK,-,-,-,-,-,-,-,-,-,-,MAIN BORROWER,600,Personal - Pay Day,True,False
+3029,UNSECURED,529.56,-,CL,OK,-,-,-,-,-,-,-,-,-,MAIN BORROWER,500,Personal - Pay Day,False,False
+2705,UNSECURED,520.0,-,CL,OK,-,-,-,-,-,-,-,-,-,MAIN BORROWER,500,Personal - Pay Day,True,False
+741,UNSECURED,1039.17,OK,-,-,-,-,-,-,-,-,-,-,-,MAIN BORROWER,1000,Personal - Pay Day,True,False
+661,UNSECURED,468.0,-,CL,-,-,-,-,-,-,-,-,-,-,MAIN BORROWER,550,Personal - Pay Day,False,False
+462,UNSECURED,800.0,OK,OK,-,-,-,-,-,-,-,-,-,-,MAIN BORROWER,"
+     
+     
+     
+     
+     
+     
+     
+  ",Personal - Pay Day,True,True
+1986,UNSECURED,799.03,OK,-,-,-,-,-,-,-,-,-,-,-,MAIN BORROWER,600,Personal - Pay Day,False,False
+1719,UNSECURED,800.0,-,OK,OK,-,-,-,-,-,-,-,-,-,MAIN BORROWER,500,Personal - Pay Day,True,False
+1703,UNSECURED,1141.47,OK,-,-,-,-,-,-,-,-,-,-,-,MAIN BORROWER,1000,Personal - Pay Day,False,False
+2385,UNSECURED,700.0,-,30,OK,-,-,-,-,-,-,-,-,-,MAIN BORROWER,500,Personal - Pay Day,True,False
+1039,UNSECURED,520.0,-,-,CL,OK,-,-,-,-,-,-,-,-,MAIN BORROWER,300,Personal - Pay Day,True,False
+2512,UNSECURED,601.63,60,30,OK,-,-,-,-,-,-,-,-,-,MAIN BORROWER,"
+     
+     
+     
+     
+     
+     
+     
+  ",Personal - Pay Day,True,False
+388,UNSECURED,312.0,OK,OK,-,-,-,-,-,-,-,-,-,-,MAIN BORROWER,1000,Personal - Pay Day,True,False
+974,UNSECURED,466.35,-,-,-,CL,OK,-,-,-,-,-,-,-,MAIN BORROWER,"
+     
+     
+     
+     
+     
+     
+     
+  ",Personal - Pay Day,True,True
+3156,UNSECURED,676.0,-,-,-,-,-,-,-,-,OK,OK,-,-,MAIN BORROWER,650,Personal - Pay Day,True,False
+475,UNSECURED,364.0,OK,OK,-,-,-,-,-,-,-,-,-,-,MAIN BORROWER,350,Personal - Pay Day,False,False
+3402,UNSECURED,317.11,OK,OK,OK,-,-,-,-,-,-,-,-,-,MAIN BORROWER,"
+     
+     
+     
+     
+     
+     
+     
+  ",Personal - Pay Day,True,False
+3110,SECURED,469845.74,-,-,-,-,-,-,-,-,-,-,-,-,MAIN BORROWER,300000,Personal - Pay Day,False,False
+3527,UNSECURED,799.03,OK,-,-,-,-,-,-,-,-,-,-,-,MAIN BORROWER,800,Personal - Pay Day,False,False
+3829,UNSECURED,477.46,-,-,-,CL,OK,OK,-,-,-,-,-,-,MAIN BORROWER,400,Personal - Pay Day,True,True
+2330,UNSECURED,635.48,-,-,-,-,CL,OK,-,-,-,-,-,-,MAIN BORROWER,"
+     
+     
+     
+     
+     
+     
+     
+  ",Personal - Pay Day,True,True
+2279,UNSECURED,337.68,-,-,-,-,-,-,-,-,-,CL,30,30,MAIN BORROWER,500,Personal - Pay Day,True,False
+2388,UNSECURED,635.48,OK,-,-,-,-,-,-,-,-,-,-,-,MAIN BORROWER,500,Personal - Pay Day,True,False
+2618,UNSECURED,365.52,-,CL,OK,OK,-,-,-,-,-,-,-,-,MAIN BORROWER,"
+     
+     
+     
+     
+     
+     
+     
+  ",Personal - Pay Day,True,True
+3528,UNSECURED,799.03,OK,-,-,-,-,-,-,-,-,-,-,-,MAIN BORROWER,800,Personal - Pay Day,False,False
+2555,UNSECURED,356.69,-,-,-,-,-,-,-,CL,OK,OK,-,-,MAIN BORROWER,600,Personal - Pay Day,True,True
+3346,UNSECURED,500.0,OK,OK,-,-,-,-,-,-,-,-,-,-,MAIN BORROWER,500,Personal - Pay Day,True,
+3945,UNSECURED,600.0,-,-,CL,OK,-,-,-,-,-,-,-,-,MAIN BORROWER,"
+     
+     
+     
+     
+     
+     
+     
+  ",Personal - Pay Day,True,True
+3529,UNSECURED,528.35,-,-,CL,OK,OK,-,-,-,-,-,-,-,MAIN BORROWER,"
+     
+     
+     
+     
+     
+     
+     
+  ",Personal - Pay Day,True,True
+3682,UNSECURED,669.69,-,-,-,-,-,-,-,CL,OK,-,-,-,MAIN BORROWER,800,Personal - Pay Day,True,False
+720,UNSECURED,509.17,-,CL,OK,OK,-,-,-,-,-,-,-,-,MAIN BORROWER,700,Personal - Pay Day,True,True
+1957,UNSECURED,520.0,-,-,-,-,CL,OK,-,-,-,-,-,-,MAIN BORROWER,300,Personal - Pay Day,True,False
+3162,UNSECURED,312.0,-,-,-,-,-,CL,OK,-,-,-,-,-,MAIN BORROWER,"
+     
+     
+     
+     
+     
+     
+     
+  ",Personal - Pay Day,True,False
+364,UNSECURED,799.03,OK,-,-,-,-,-,-,-,-,-,-,-,MAIN BORROWER,"
+     
+     
+     
+     
+     
+     
+     
+  ",Personal - Pay Day,False,False
+2851,UNSECURED,276.94,-,-,-,-,-,-,-,-,CL,OK,OK,OK,MAIN BORROWER,"
+     
+     
+     
+     
+     
+     
+     
+  ",Personal - Pay Day,True,False
+1867,UNSECURED,520.0,-,CL,OK,-,-,-,-,-,-,-,-,-,MAIN BORROWER,500,Personal - Pay Day,True,False
+3475,UNSECURED,500.0,-,-,-,-,-,CL,-,-,-,-,-,-,MAIN BORROWER,400,Personal - Pay Day,True,False
+2790,UNSECURED,520.0,-,-,CL,OK,-,-,-,-,-,-,-,-,MAIN BORROWER,500,Personal - Pay Day,True,False
+2208,UNSECURED,372.96,30,OK,OK,-,-,-,-,-,-,-,-,-,MAIN BORROWER,800,Personal - Pay Day,True,False
+2037,UNSECURED,741.39,OK,-,-,-,-,-,-,-,-,-,-,-,MAIN BORROWER,"
+     
+     
+     
+     
+     
+     
+     
+  ",Personal - Pay Day,True,True
+93,UNSECURED,799.03,CL,OK,OK,-,OK,-,-,-,-,-,-,-,MAIN BORROWER,700,Personal - Pay Day,False,False
+2335,UNSECURED,468.0,-,-,-,-,-,-,-,-,-,-,CL,OK,MAIN BORROWER,450,Personal - Pay Day,True,False
+2153,UNSECURED,537.87,-,-,-,-,-,CL,&gt;120,&gt;120,&gt;120,&gt;120,120,90,MAIN BORROWER,"
+     
+     
+     
+     
+     
+     
+     
+  ",Personal - Pay Day,True,True
+2850,UNSECURED,755.54,-,CL,OK,OK,OK,-,-,-,-,-,-,-,MAIN BORROWER,500,Personal - Pay Day,False,False
+198,UNSECURED,1141.47,OK,OK,OK,-,-,-,-,-,-,-,-,-,MAIN BORROWER,400,Personal - Pay Day,False,False
+3627,SECURED,326998.9,-,OK,-,-,-,-,-,-,-,-,-,-,MAIN BORROWER,26000,Personal - Pay Day,False,False
+534,UNSECURED,520.0,CL,OK,-,-,-,-,-,-,-,-,-,-,MAIN BORROWER,500,Personal - Pay Day,True,False
+2608,UNSECURED,913.18,CL,OK,OK,30,OK,OK,-,-,-,-,-,-,MAIN BORROWER,"
+     
+     
+     
+     
+     
+     
+     
+  ",Personal - Pay Day,False,False
+1632,UNSECURED,520.0,CL,OK,-,-,-,-,-,-,-,-,-,-,MAIN BORROWER,500,Personal - Pay Day,True,False
+3805,UNSECURED,799.03,CL,OK,OK,OK,-,-,-,-,-,-,-,-,MAIN BORROWER,350,Personal - Pay Day,False,False
+3208,UNSECURED,476.42,-,-,CL,OK,OK,-,-,-,-,-,-,-,MAIN BORROWER,800,Personal - Pay Day,True,True
+2413,UNSECURED,336.35,-,CL,30,OK,-,-,-,-,-,-,-,-,MAIN BORROWER,650,Personal - Pay Day,True,False
+687,UNSECURED,799.03,CL,OK,OK,OK,-,-,-,-,-,-,-,-,MAIN BORROWER,"
+     
+     
+     
+     
+     
+     
+     
+  ",Personal - Pay Day,False,False
+3031,SECURED,102393.42,CL,-,-,-,-,-,-,-,-,-,-,-,MAIN BORROWER,100000,Personal - Pay Day,False,False
+2393,UNSECURED,300.0,-,-,CL,OK,-,-,-,-,-,-,-,-,MAIN BORROWER,400,Personal - Pay Day,True,
+1243,UNSECURED,525.21,-,-,-,-,CL,30,-,-,-,-,-,-,MAIN BORROWER,450,Personal - Pay Day,True,False
+3738,SECURED,204786.85,-,-,-,CL,-,-,-,-,-,-,-,-,MAIN BORROWER,500000,Personal - Pay Day,False,False
+2798,UNSECURED,799.03,OK,-,-,-,-,-,-,-,-,-,-,-,MAIN BORROWER,"
+     
+     
+     
+     
+     
+     
+     
+  ",Personal - Pay Day,False,False
+1480,UNSECURED,290.26,-,-,-,CL,OK,-,-,-,-,-,-,-,MAIN BORROWER,800,Personal - Pay Day,True,True
+2845,UNSECURED,847.3,OK,-,-,-,-,-,-,-,-,-,-,-,MAIN BORROWER,"
+     
+     
+     
+     
+     
+     
+     
+  ",Personal - Pay Day,True,True
+712,UNSECURED,305.5,-,CL,OK,OK,-,-,-,-,-,-,-,-,MAIN BORROWER,800,Personal - Pay Day,True,True
+954,UNSECURED,742.27,CL,OK,-,-,-,-,-,-,-,-,-,-,MAIN BORROWER,500,Personal - Pay Day,True,False
+1895,UNSECURED,520.0,CL,OK,-,-,-,-,-,-,-,-,-,-,MAIN BORROWER,500,Personal - Pay Day,True,False
+2014,UNSECURED,420.26,-,-,CL,OK,OK,OK,-,-,-,-,-,-,MAIN BORROWER,700,Personal - Pay Day,True,True
+295,UNSECURED,800.0,OK,OK,-,-,-,-,-,-,-,-,-,-,MAIN BORROWER,"
+     
+     
+     
+     
+     
+     
+     
+  ",Personal - Pay Day,True,False
+528,UNSECURED,600.0,-,-,-,-,-,-,-,-,-,CL,OK,-,MAIN BORROWER,500,Personal - Pay Day,True,False
+2239,UNSECURED,600.0,-,OK,OK,-,-,-,-,-,-,-,-,-,MAIN BORROWER,"
+     
+     
+     
+     
+     
+     
+     
+  ",Personal - Pay Day,True,True
+658,UNSECURED,900.0,OK,OK,-,-,-,-,-,-,-,-,-,-,MAIN BORROWER,"
+     
+     
+     
+     
+     
+     
+     
+  ",Personal - Pay Day,True,True
+1582,UNSECURED,1000.0,OK,OK,-,-,-,-,-,-,-,-,-,-,MAIN BORROWER,1000,Personal - Pay Day,True,True
+927,UNSECURED,570.19,30,OK,-,-,-,-,-,-,-,-,-,-,MAIN BORROWER,"
+     
+     
+     
+     
+     
+     
+     
+  ",Personal - Pay Day,True,True
+1354,UNSECURED,529.56,OK,-,-,-,-,-,-,-,-,-,-,-,MAIN BORROWER,500,Personal - Pay Day,True,False
+103,UNSECURED,676.0,-,-,-,CL,OK,-,-,-,-,-,-,-,MAIN BORROWER,650,Personal - Pay Day,True,False
+3066,UNSECURED,447.42,-,-,CL,OK,OK,-,-,-,-,-,-,-,MAIN BORROWER,"
+     
+     
+     
+     
+     
+     
+     
+  ",Personal - Pay Day,True,True
+1528,UNSECURED,799.03,OK,-,-,-,-,-,-,-,-,-,-,-,MAIN BORROWER,800,Personal - Pay Day,False,False
+3942,UNSECURED,364.0,-,CL,-,-,-,-,-,-,-,-,-,-,MAIN BORROWER,500,Personal - Pay Day,False,False
+1613,UNSECURED,509.36,CL,OK,OK,-,-,-,-,-,-,-,-,-,MAIN BORROWER,800,Personal - Pay Day,True,True
+1047,UNSECURED,811.46,&gt;120,&gt;120,&gt;120,120,90,60,OK,OK,30,30,OK,-,MAIN BORROWER,"
+     
+     
+     
+     
+     
+     
+     
+  ",Personal - Pay Day,False,False
+3206,UNSECURED,527.35,-,CL,OK,OK,-,-,-,-,-,-,-,-,MAIN BORROWER,600,Personal - Pay Day,True,True
+526,UNSECURED,283.39,-,-,-,-,-,-,-,-,CL,60,30,30,MAIN BORROWER,700,Personal - Pay Day,True,True
+3881,UNSECURED,280.82,-,-,-,-,-,-,-,CL,OK,OK,-,-,MAIN BORROWER,"
+     
+     
+     
+     
+     
+     
+     
+  ",Personal - Pay Day,True,False
+2907,UNSECURED,312.0,-,-,-,-,-,CL,-,-,-,-,-,-,MAIN BORROWER,800,Personal - Pay Day,True,False
+1215,UNSECURED,799.03,OK,-,-,-,-,-,-,-,-,-,-,-,MAIN BORROWER,500,Personal - Pay Day,False,False
+2761,UNSECURED,500.0,-,-,-,CL,OK,-,-,-,-,-,-,-,MAIN BORROWER,1000,Personal - Pay Day,True,True
+2471,UNSECURED,570.74,CL,OK,OK,OK,OK,OK,-,-,-,-,-,-,MAIN BORROWER,"
+     
+     
+     
+     
+     
+     
+     
+  ",Personal - Pay Day,False,False
+2419,UNSECURED,3088.62,-,-,-,-,-,-,-,-,-,-,CL,-,MAIN BORROWER,3000,Personal - Pay Day,False,
+2159,UNSECURED,520.0,CL,OK,-,-,-,-,-,-,-,-,-,-,MAIN BORROWER,500,Personal - Pay Day,True,False
+1347,UNSECURED,305.5,-,-,CL,OK,OK,-,-,-,-,-,-,-,MAIN BORROWER,800,Personal - Pay Day,True,True
+947,UNSECURED,7982.72,60,30,30,30,OK,-,-,-,-,-,-,-,MAIN BORROWER,8000,Personal - Pay Day,True,False
+4023,UNSECURED,536.16,OK,OK,OK,OK,-,-,-,-,-,-,-,-,MAIN BORROWER,700,Personal - Pay Day,True,True
+3111,UNSECURED,305.5,-,-,CL,OK,OK,-,-,-,-,-,-,-,MAIN BORROWER,"
+     
+     
+     
+     
+     
+     
+     
+  ",Personal - Pay Day,True,True
+2852,UNSECURED,520.0,-,CL,OK,-,-,-,-,-,-,-,-,-,MAIN BORROWER,500,Personal - Pay Day,True,False
+2499,UNSECURED,543.47,-,-,-,-,-,-,-,-,CL,OK,OK,-,MAIN BORROWER,700,Personal - Pay Day,True,False
+2920,UNSECURED,99953.86,-,-,-,-,-,-,-,-,-,-,-,-,MAIN BORROWER,69473.66,Business,False,False
+3765,UNSECURED,572.0,-,-,-,-,CL,OK,-,-,-,-,-,-,MAIN BORROWER,550,Personal - Pay Day,True,False
+3989,UNSECURED,799.03,-,OK,OK,OK,-,-,-,-,-,-,-,-,MAIN BORROWER,1000,Personal - Pay Day,False,False
+52,UNSECURED,139.06,-,-,CL,OK,OK,-,-,-,-,-,-,-,MAIN BORROWER,300,Personal - Pay Day,True,True
+1519,UNSECURED,520.0,-,-,CL,OK,-,-,-,-,-,-,-,-,MAIN BORROWER,500,Personal - Pay Day,True,False
+1497,UNSECURED,799.03,OK,-,-,-,-,-,-,-,-,-,-,-,MAIN BORROWER,"
+     
+     
+     
+     
+     
+     
+     
+  ",Personal - Pay Day,False,False
+1128,UNSECURED,742.27,CL,-,-,-,-,-,-,-,-,-,-,-,MAIN BORROWER,600,Personal - Pay Day,True,False
+4015,UNSECURED,389.67,-,-,CL,OK,OK,OK,-,-,-,-,-,-,MAIN BORROWER,500,Personal - Pay Day,True,False
+27,UNSECURED,676.0,-,-,-,-,-,-,CL,OK,-,-,-,-,MAIN BORROWER,650,Personal - Pay Day,True,False
+1494,UNSECURED,1000.0,OK,OK,-,-,-,-,-,-,-,-,-,-,MAIN BORROWER,1000,Personal - Pay Day,True,True
+535,UNSECURED,312.0,-,-,-,-,-,-,CL,OK,-,-,-,-,MAIN BORROWER,600,Personal - Pay Day,True,False
+69,UNSECURED,572.0,-,-,-,-,-,-,CL,OK,-,-,-,-,MAIN BORROWER,550,Personal - Pay Day,True,False
+3358,UNSECURED,531.0,OK,OK,-,-,-,-,-,-,-,-,-,-,MAIN BORROWER,"
+     
+     
+     
+     
+     
+     
+     
+  ",Personal - Pay Day,True,False
+2001,UNSECURED,1116.86,-,-,-,-,-,-,-,-,-,CL,30,OK,MAIN BORROWER,3000,Personal - Pay Day,True,True
+1840,UNSECURED,529.43,30,30,OK,-,-,-,-,-,-,-,-,-,MAIN BORROWER,"
+     
+     
+     
+     
+     
+     
+     
+  ",Personal - Pay Day,True,True
+626,UNSECURED,799.03,OK,-,-,-,-,-,-,-,-,-,-,-,MAIN BORROWER,800,Personal - Pay Day,False,False
+1635,UNSECURED,520.0,-,-,-,CL,OK,-,-,-,-,-,-,-,MAIN BORROWER,500,Personal - Pay Day,True,False
+2800,UNSECURED,800.0,-,CL,OK,-,-,-,-,-,-,-,-,-,MAIN BORROWER,500,Personal - Pay Day,True,True
+866,UNSECURED,364.0,-,CL,-,-,-,-,-,-,-,-,-,-,MAIN BORROWER,350,Personal - Pay Day,False,False
+2433,UNSECURED,799.03,OK,-,-,-,-,-,-,-,-,-,-,-,MAIN BORROWER,800,Personal - Pay Day,False,False
+2924,UNSECURED,676.0,OK,OK,-,-,-,-,-,-,-,-,-,-,MAIN BORROWER,500,Personal - Pay Day,False,False
+1629,UNSECURED,500.0,CL,OK,-,-,-,-,-,-,-,-,-,-,MAIN BORROWER,350,Personal - Pay Day,True,False
+1416,UNSECURED,311.75,-,CL,OK,-,-,-,-,-,-,-,-,-,MAIN BORROWER,"
+     
+     
+     
+     
+     
+     
+     
+  ",Personal - Pay Day,False,False
+2810,UNSECURED,520.0,-,CL,OK,-,-,-,-,-,-,-,-,-,MAIN BORROWER,500,Personal - Pay Day,True,False
+3480,UNSECURED,741.39,-,-,-,CL,OK,OK,-,-,-,-,-,-,MAIN BORROWER,1500,Personal - Pay Day,False,False
+2476,UNSECURED,407.33,OK,OK,OK,-,-,-,-,-,-,-,-,-,MAIN BORROWER,"
+     
+     
+     
+     
+     
+     
+     
+  ",Personal - Pay Day,True,True
+3997,UNSECURED,1141.47,OK,-,-,-,-,-,-,-,-,-,-,-,MAIN BORROWER,"
+     
+     
+     
+     
+     
+     
+     
+  ",Personal - Pay Day,False,False
+488,UNSECURED,847.3,OK,-,-,-,-,-,-,-,-,-,-,-,MAIN BORROWER,"
+     
+     
+     
+     
+     
+     
+     
+  ",Personal - Pay Day,True,True
+2086,UNSECURED,799.03,OK,-,-,-,-,-,-,-,-,-,-,-,MAIN BORROWER,1050,Personal - Pay Day,False,False
+2792,UNSECURED,1000.0,-,-,-,CL,OK,-,-,-,-,-,-,-,MAIN BORROWER,1000,Personal - Pay Day,False,
+573,UNSECURED,572.0,-,-,-,-,-,-,CL,OK,-,-,-,-,MAIN BORROWER,800,Personal - Pay Day,False,False
+913,UNSECURED,1661.77,30,OK,-,-,-,-,-,-,-,-,-,-,MAIN BORROWER,1100,Personal - Pay Day,True,False
+2952,UNSECURED,468.16,-,-,-,CL,OK,OK,-,-,-,-,-,-,MAIN BORROWER,800,Personal - Pay Day,True,True
+3833,UNSECURED,799.03,CL,OK,OK,OK,OK,OK,-,-,-,-,-,-,MAIN BORROWER,500,Personal - Pay Day,False,False
+201,UNSECURED,416.0,-,-,-,-,-,-,-,CL,OK,-,-,-,MAIN BORROWER,300,Personal - Pay Day,True,False
+3821,UNSECURED,799.03,OK,-,-,-,-,-,-,-,-,-,-,-,MAIN BORROWER,"
+     
+     
+     
+     
+     
+     
+     
+  ",Personal - Pay Day,False,False
+1239,SECURED,203594.65,-,-,-,-,-,-,-,-,-,-,-,-,MAIN BORROWER,198937.87,Personal - Pay Day,False,False
+3680,UNSECURED,302.7,-,-,-,-,-,-,-,-,-,CL,OK,-,MAIN BORROWER,600,Personal - Pay Day,True,False
+3069,UNSECURED,529.56,OK,-,-,-,-,-,-,-,-,-,-,-,MAIN BORROWER,1000,Personal - Pay Day,True,False
+3982,UNSECURED,352.96,-,CL,OK,OK,OK,-,-,-,-,-,-,-,MAIN BORROWER,600,Personal - Pay Day,True,False
+1316,UNSECURED,799.03,-,OK,-,-,-,-,-,-,-,-,-,-,MAIN BORROWER,"
+     
+     
+     
+     
+     
+     
+     
+  ",Personal - Pay Day,False,False
+2463,SECURED,81872.66,-,-,-,-,-,-,-,-,-,-,-,-,MAIN BORROWER,100000,Personal - Pay Day,False,False
+3743,UNSECURED,520.0,OK,OK,-,-,-,-,-,-,-,-,-,-,MAIN BORROWER,600,Personal - Pay Day,True,False
+2875,UNSECURED,500.0,-,CL,OK,-,-,-,-,-,-,-,-,-,MAIN BORROWER,600,Personal - Pay Day,True,
+1038,SECURED,500000.0,-,-,-,-,-,-,-,-,-,-,-,-,MAIN BORROWER,100000,Personal - Pay Day,False,False
+73,UNSECURED,500.0,OK,-,-,-,-,-,-,-,-,-,-,-,MAIN BORROWER,"
+     
+     
+     
+     
+     
+     
+     
+  ",Personal - Pay Day,True,False
+1335,UNSECURED,398.35,-,-,-,-,-,-,-,-,-,CL,30,OK,MAIN BORROWER,600,Personal - Pay Day,True,True
+1372,UNSECURED,572.0,-,-,-,-,-,-,-,-,CL,OK,-,-,MAIN BORROWER,550,Personal - Pay Day,True,False
+3912,UNSECURED,395.0,CL,OK,OK,OK,OK,-,-,-,-,-,-,-,MAIN BORROWER,900,Personal - Pay Day,True,True
+3690,UNSECURED,305.5,-,-,CL,OK,OK,-,-,-,-,-,-,-,MAIN BORROWER,"
+     
+     
+     
+     
+     
+     
+     
+  ",Personal - Pay Day,True,True
+2098,UNSECURED,521.33,-,CL,OK,OK,-,-,-,-,-,-,-,-,MAIN BORROWER,"
+     
+     
+     
+     
+     
+     
+     
+  ",Personal - Pay Day,True,True
+3701,UNSECURED,264.53,-,-,CL,OK,OK,OK,-,-,-,-,-,-,MAIN BORROWER,1000,Personal - Pay Day,True,True
+3584,UNSECURED,800.0,OK,OK,-,-,-,-,-,-,-,-,-,-,MAIN BORROWER,"
+     
+     
+     
+     
+     
+     
+     
+  ",Personal - Pay Day,True,True
+678,UNSECURED,799.03,OK,-,-,-,-,-,-,-,-,-,-,-,MAIN BORROWER,"
+     
+     
+     
+     
+     
+     
+     
+  ",Personal - Pay Day,False,False
+3312,UNSECURED,848.31,CL,-,-,-,-,-,-,-,-,-,-,-,MAIN BORROWER,700,Personal - Pay Day,True,False
+909,SECURED,511967.12,CL,-,-,-,-,-,-,-,-,-,-,-,MAIN BORROWER,100000,Personal - Pay Day,False,False
+150,UNSECURED,799.03,OK,-,-,-,-,-,-,-,-,-,-,-,MAIN BORROWER,"
+     
+     
+     
+     
+     
+     
+     
+  ",Personal - Pay Day,False,False
+3832,UNSECURED,303.5,CL,OK,OK,-,-,-,-,-,-,-,-,-,MAIN BORROWER,600,Personal - Pay Day,True,True
+3791,UNSECURED,742.27,-,OK,-,-,-,-,-,-,-,-,-,-,MAIN BORROWER,650,Personal - Pay Day,True,False
+2011,UNSECURED,312.0,-,-,-,-,CL,OK,-,-,-,-,-,-,MAIN BORROWER,600,Personal - Pay Day,True,False
+1625,UNSECURED,700.0,CL,OK,OK,OK,OK,OK,-,-,-,-,-,-,MAIN BORROWER,1000,Personal - Pay Day,False,False
+1733,UNSECURED,468.35,-,-,CL,OK,-,-,-,-,-,-,-,-,MAIN BORROWER,1000,Personal - Pay Day,True,True
+3639,UNSECURED,1027.31,CL,-,OK,OK,-,-,-,-,-,-,-,-,MAIN BORROWER,500,Personal - Pay Day,False,False
+4020,UNSECURED,799.03,-,-,OK,OK,OK,-,-,-,-,-,-,-,MAIN BORROWER,"
+     
+     
+     
+     
+     
+     
+     
+  ",Personal - Pay Day,False,False
+1431,UNSECURED,407.6,CL,30,OK,-,-,-,-,-,-,-,-,-,MAIN BORROWER,500,Personal - Pay Day,True,True
+3238,UNSECURED,342.63,-,CL,OK,-,-,-,-,-,-,-,-,-,MAIN BORROWER,"
+     
+     
+     
+     
+     
+     
+     
+  ",Personal - Pay Day,True,True
+1837,UNSECURED,500.0,-,CL,OK,-,-,-,-,-,-,-,-,-,MAIN BORROWER,700,Personal - Pay Day,True,
+247,UNSECURED,416.0,-,-,-,CL,OK,-,-,-,-,-,-,-,MAIN BORROWER,400,Personal - Pay Day,True,False
+250,UNSECURED,312.0,-,-,-,-,-,-,CL,OK,-,-,-,-,MAIN BORROWER,300,Personal - Pay Day,True,False
+1435,UNSECURED,780.0,-,-,-,CL,OK,-,-,-,-,-,-,-,MAIN BORROWER,750,Personal - Pay Day,False,False
+1782,UNSECURED,263.15,60,60,30,30,OK,-,-,-,-,-,-,-,MAIN BORROWER,500,Personal - Pay Day,True,True
+1377,UNSECURED,426.54,-,CL,30,OK,-,-,-,-,-,-,-,-,MAIN BORROWER,800,Personal - Pay Day,True,True
+3524,UNSECURED,276.94,-,-,-,-,-,-,CL,OK,OK,OK,-,-,MAIN BORROWER,600,Personal - Pay Day,True,False
+858,UNSECURED,799.03,OK,-,-,-,-,-,-,-,-,-,-,-,MAIN BORROWER,500,Personal - Pay Day,False,False
+1624,UNSECURED,1079.34,OK,-,-,-,-,-,-,-,-,-,-,-,MAIN BORROWER,"
+     
+     
+     
+     
+     
+     
+     
+  ",Personal - Pay Day,False,False
+1067,UNSECURED,357.94,-,-,-,-,-,-,-,-,-,-,-,CL,MAIN BORROWER,1000,Personal - Pay Day,True,True
+2598,UNSECURED,520.0,-,-,CL,-,-,-,-,-,-,-,-,-,MAIN BORROWER,500,Personal - Pay Day,True,False
+2836,UNSECURED,500.0,-,-,CL,OK,-,-,-,-,-,-,-,-,MAIN BORROWER,300,Personal - Pay Day,True,
+386,UNSECURED,520.0,-,-,-,CL,OK,-,-,-,-,-,-,-,MAIN BORROWER,300,Personal - Pay Day,True,False
+3852,UNSECURED,572.0,OK,OK,-,-,-,-,-,-,-,-,-,-,MAIN BORROWER,300,Personal - Pay Day,False,False
+1321,SECURED,204681.64,-,-,-,-,-,-,-,-,-,-,-,-,MAIN BORROWER,500000,Personal - Pay Day,False,False
+1427,UNSECURED,485.1,CL,OK,OK,-,-,-,-,-,-,-,-,-,MAIN BORROWER,650,Personal - Pay Day,True,False
+3971,UNSECURED,207.7,-,-,-,-,CL,OK,OK,-,-,-,-,-,MAIN BORROWER,"
+     
+     
+     
+     
+     
+     
+     
+  ",Personal - Pay Day,True,False
+3438,UNSECURED,635.48,OK,-,-,-,-,-,-,-,-,-,-,-,MAIN BORROWER,600,Personal - Pay Day,True,False
+2974,UNSECURED,520.0,OK,OK,-,-,-,-,-,-,-,-,-,-,MAIN BORROWER,500,Personal - Pay Day,True,False
+2921,UNSECURED,799.03,OK,-,-,-,-,-,-,-,-,-,-,-,MAIN BORROWER,"
+     
+     
+     
+     
+     
+     
+     
+  ",Personal - Pay Day,False,False
+897,UNSECURED,728.0,-,-,-,CL,OK,-,-,-,-,-,-,-,MAIN BORROWER,500,Personal - Pay Day,True,False

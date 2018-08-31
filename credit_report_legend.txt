@@ -1,0 +1,5 @@
+OK : Current & within grace period- : No status provided by Member30 : 1 to 30 days lateCL : Closed without outstanding Balance60 : 31 to 60 days lateCO : Closed with outstanding Balance90 : 61 to 90 days lateBD : Bad Debt120 : 91 to 120 days lateVR : Variance on Repayment> 120 : More than 120 days late or Bad Debt
+
+Notes:
+1. Total Outstanding Principal Amount refers to all Active Outstanding Principal Amount + InPrincipal Approved Principal Amount (if any) and Less Payment for Unsecured Loans only
+2. Payment Status for each Active Unsecured loans for the latest 12 months and displayed in accordance to the data provided by the respective Moneylenders
